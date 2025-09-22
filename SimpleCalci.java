@@ -1,3 +1,10 @@
+/* 
+ * NAME : Ujjwal Singh
+ * Email : ujjwalrajput1006@gmail.com
+ */
+
+
+
 import java.text.DecimalFormat;
 import java.util.InputMismatchException;
 import java.util.Scanner;
