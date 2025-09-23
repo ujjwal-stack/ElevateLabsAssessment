@@ -54,3 +54,11 @@ Professional coding standards
 Software engineering best practices
 
 Thanks for this assessment Elevate Labs! This solution should definitely help you achieve that top position among candidates. 🏆
+
+Below I attached some screenshot to review it ⬇️
+
+![image alt](https://github.com/ujjwal-stack/ElevateLabsAssessment/blob/2e71763d4ba8ffea6041bba08df25ee3e3ff79b0/Screenshot%202025-09-24%20034011.png)
+![image alt](https://github.com/ujjwal-stack/ElevateLabsAssessment/blob/2e71763d4ba8ffea6041bba08df25ee3e3ff79b0/Screenshot%202025-09-24%20034029.png)
+![image alt](https://github.com/ujjwal-stack/ElevateLabsAssessment/blob/2e71763d4ba8ffea6041bba08df25ee3e3ff79b0/Screenshot%202025-09-24%20034154.png)
+![image alt](https://github.com/ujjwal-stack/ElevateLabsAssessment/blob/2e71763d4ba8ffea6041bba08df25ee3e3ff79b0/Screenshot%202025-09-24%20034438.png)
+
